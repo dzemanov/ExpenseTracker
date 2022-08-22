@@ -17,6 +17,8 @@ psd
 thumb
 sketch
 
+.eslintcache
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
